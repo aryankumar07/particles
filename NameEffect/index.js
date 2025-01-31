@@ -5,7 +5,7 @@ canvas.height = window.innerHeight;
 let particleArray = [];
 
 ctx.font = "30px Arial";
-ctx.fillText("Aryan", 40, 40);
+ctx.fillText("Ranjana", 40, 40);
 
 const imageInfo = ctx.getImageData(0, 0, 200, 60);
 console.log(imageInfo);
